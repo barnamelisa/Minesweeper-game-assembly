@@ -2,6 +2,7 @@
 .model flat, stdcall
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+
 ;includem biblioteci, si declaram ce functii vrem sa importam
 includelib msvcrt.lib
 extern exit: proc
