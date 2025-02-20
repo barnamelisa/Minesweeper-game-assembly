@@ -1,4 +1,4 @@
-creare_tabela macro
+ creare_tabela macro
 	  patrat 152,100,480,0C0C0C0h
 	  linie_verticala  170,120,70, 0
 	  linie_verticala  614,120,70, 0
